@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Digital Wilderness</title>
+</head>
+<body>
+    <section class="header">
+        <nav>
+            <h1 class="logo">Digital Wilderness</h1>
+            <div class="nav-links" id="navLinks">
+                <i class="fa fa-times" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="">HOME</a></li>
+                    <li><a href="site/about.html">ABOUT</a></li>
+                    <li><a href="site/blog.html">BLOG</a></li>
+                    <li><a href="site/contact.html">CONTACT</a></li>
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+        </nav>
+        <div class="text-box">
+            <h1>Digital Wilderness</h1>
+            <p>This is currently a one man company, anyone interested in the field of technology from hardware to software is encouraged to apply.</p>
+            <a href="https://www.linkedin.com/in/arnoldchrisoduor/" class="hero-btn">Visit My linkedIn</a>
+        </div>
+        
+    </section>
+    <!--Services Offered-->
+
+    <section class="service">
+        <h1>Services We Offer</h1>
+        <p>The servies mentioned won't be on offer till December 2023</p>
+
+        <div class="row">
+            <div class="service-col">
+                <h3>Front-End Development</h3>
+                <p>This will primarily be done using the following technologies:<br/>HTML, CSS, Javascript and React.<br/>All sites will be created according to owner specifications.</p>
+            </div>
+            <div class="service-col">
+                <h3>Back-End Development</h3>
+                <p>Backend will primarily be done with Python - flask.<br/>
+                Our team also have skills in C, SQL, Linux, Docker and alot more on DevOps.</p>
+            </div>
+            <div class="service-col">
+                <h3>Embedded/Hardware Programming</h3>
+                <p>Writing low-level qulity code that can operate optimally for hardware is also our specialty.<br/>With C, C++ and Python writing efficient code is a walk in the park for us.</p>
+            </div>
+        </div>
+    </section>
+
+
+
+    <!--Projects-->
+    <section class="projects">
+        <h1>Our Previous Projects</h1>
+        <p>This projects section will be update as soon as they are complete.</p>
+
+        <div class="row">
+            <div class="projects-col">
+                <img src="images/coming soon.jpg" alt="">
+                <h3>Coming Soon</h3>
+                <p>Updates Underway</p>
+            </div>
+            <div class="projects-col">
+                <img src="images/coming soon.jpg" alt="">
+                <h3>Coming Soon</h3>
+                <p>Updates Underway</p>
+            </div>
+            <div class="projects-col">
+                <img src="images/coming soon.jpg" alt="">
+                <h3>Coming Soon</h3>
+                <p>Updates Underway</p>
+            </div>
+        </div>
+    </section>
+
+    <!--Testimonials-->
+
+    <section class="testimonials">
+        <h1>Whatever Our Customers Says</h1>
+        <p>This section doesn't have actual reviiews, this is a sample. Updates Underway</p>
+
+        <div class="row">
+            <div class="testimonial-col">
+                <img src="images/user1.jpg" alt="">
+                <div>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pelletesque turpis null.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pelletesque turpis null 
+                    </p>
+                    <h3>Chrisine Berkley</h3>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+            </div>
+            <div class="testimonial-col">
+                <img src="images/user2.jpg" alt="">
+                <div>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pelletesque turpis null.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pelletesque turpis null  
+                    </p>
+                    <h3>David Byer</h3>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--Call to Action-->
+
+    <section class="cta">
+        <h1>Feel free to apply for a product through our contact page to join the waitlist.</h1>
+        <a href="" class="hero-btn">CONTACT US</a>
+    </section>
+
+    <!--Footer-->
+
+    <section class="footer">
+        <h4>About Us</h4>
+        <p>This is currently a one man company, anyone interested in the field of technology from hardware to software is encouraged to apply.</p>
+
+        <div class="icons">
+            <a href="https://www.twitter.com/arnold0duor/"><i class="fa fa-twitter"></i></a>
+            <a href="www.meta.com"><i class="fa fa-facebook"></i></a>
+            <a href="https://www.instagram.com/digital_wilderness/"><i class="fa fa-instagram"></i></a>
+            <a href="https://www.linkedin.com/in/arnoldchrisoduor/"><i class="fa fa-linkedin"></i></a>
+        </div>
+        <p>Made with <i class="fa fa-heart-o"></i> by ArnoldOduor</p>
+    </section>
+    <!-------Javascript for toggle Menu---->
+    <script>
+        var navLinks = document.getElementById("navLinks");
+
+        function showMenu(){
+            navLinks.style.right ="0";
+        }
+        function hideMenu(){
+            navLinks.style.right ="-200px";
+        }
+    </script>
+</body>
+</html>
