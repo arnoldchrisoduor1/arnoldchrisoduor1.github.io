@@ -15,7 +15,7 @@ This personal portfolio consists of the following pages:-
 - [x] Enable people to connect to me through a contact page.
 - [x] Allow me to post my tech articles through my blog page.
 - [x] Showcase my skills through my projects section.
-- [] Show my live projects on a separat page.
+- [ ] Show my live projects on a separat page.
 - [x] Create an about page.
 
 ## Future Updates.
@@ -27,3 +27,11 @@ This personal portfolio consists of the following pages:-
 > This page is still under development.
 
 To access this page type `www.oduor.xyz` on a browser.
+
+To make contributions to this page or if you have any questions contact me through:-
+- Twitter at `arnold0duor`
+- Instagram at `digital_wilderness`
+- Gmail at `arnoldchrisoduor@gmail.com`
+
+### This is the Home Page
+![Screenshot of the Homepage](https://user-images.githubusercontent.com/109024629/231632505-f1eb2daf-2acf-4e69-a8cd-d4cc8477d1f0.png)
