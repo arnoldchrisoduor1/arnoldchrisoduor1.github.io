@@ -1,5 +1,7 @@
 # Personal Portfolio.
 
+![Screenshot of the Homepage](https://user-images.githubusercontent.com/109024629/231632505-f1eb2daf-2acf-4e69-a8cd-d4cc8477d1f0.png)
+
 This personal portfolio consists of the following pages:-
 
 - [Home](https://www.oduor.xyz/) Page.
@@ -29,9 +31,8 @@ This personal portfolio consists of the following pages:-
 To access this page type `www.oduor.xyz` on a browser.
 
 To make contributions to this page or if you have any questions contact me through:-
-- Twitter at `arnold0duor`
-- Instagram at `digital_wilderness`
-- Gmail at `arnoldchrisoduor@gmail.com`
+- Twitter at     `arnold0duor`
+- Instagram at   `digital_wilderness`
+- Gmail at       `arnoldchrisoduor@gmail.com`
 
-### This is the Home Page
-![Screenshot of the Homepage](https://user-images.githubusercontent.com/109024629/231632505-f1eb2daf-2acf-4e69-a8cd-d4cc8477d1f0.png)
+> Remember to follow me :)
