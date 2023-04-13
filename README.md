@@ -1,10 +1,13 @@
-        # Personal Portfolio.
+# Personal Portfolio.
 
 This personal portfolio consists of the following pages:-
 
 -[Home](https://www.oduor.xyz/) Page.
+
 -[Blog](https://www.oduor.xyz/blog.html) Page.
+
 -[Contact](https://www.oduor.xyz/contact.html) Page.
+
 -[About](https://www.oduor.xyz/about.html) Page.
 
 ### The following were my aims while making this page.
