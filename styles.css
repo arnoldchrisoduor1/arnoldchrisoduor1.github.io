@@ -330,15 +330,23 @@ h3{
 .blog-left img{
     width: 100%;
 }
-.blog-left h2{
+.blog-left h3{
     color: #222;
     font-weight: 600;
-    margin: 30px 0;
+    margin: 10px 0;
+    font-size: 30px;
+}
+.blog-left a{
+    text-decoration: none;
 }
 .blog-left p{
     color: #999;
-    padding: 0;
+    padding: 5;
 }
+.blog-col h3{
+    text-align: left;
+}
+
 .blog-right{
     flex-basis: 32%;
 }
