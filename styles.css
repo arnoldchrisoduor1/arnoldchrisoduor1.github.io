@@ -70,7 +70,7 @@ nav{
 }
 .text-box p{
     margin: 10px 0 40px;
-    font-size: 14px;
+    font-size: 20px;
     color: white;
 }
 .hero-btn{
@@ -180,7 +180,7 @@ h3{
     flex-basis: 31%;
     border-radius: 10px;
     margin-bottom: 5%;
-    text-align: left;
+    text-align: center;
 }
 .projects-col img{
     width: 100%;
@@ -192,7 +192,7 @@ h3{
 .projects-col h3{
     margin-top: 16px;
     margin-bottom: 15px;
-    text-align: left;
+    text-align: center;
 }
 
 /*Testimonials*/
