@@ -89,6 +89,13 @@ nav{
     color: red;
     margin-top: 5px;
 }
+
+.hero-btn-live{
+    text-decoration: none;
+    color: green;
+    margin-top: 5px;
+}
+
 .projects-col .fa{
     color: red;
 }
