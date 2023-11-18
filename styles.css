@@ -143,7 +143,7 @@ nav .fa{
         font-size: 16px;
     }
     .logo {
-        font-size: 20px;
+        font-size: 30px;
     }
 }
 
@@ -275,7 +275,7 @@ h3{
 }
 @media(max-width:700px){
     .cta h1{
-        font-size: 24px;
+        font-size: 20px;
     }
 }
 
@@ -309,7 +309,7 @@ h3{
 .sub-header{
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Images/tech.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Images/arnold.jpg);
     background-position:center;
     background-size: cover;
     text-align: center;
@@ -333,6 +333,9 @@ h3{
 }
 .about-col h1{
     padding-top: 0;
+}
+.about-col .skil{
+    margin-top:20px ;
 }
 .about-col p{
     padding: 15px 0 25px;
